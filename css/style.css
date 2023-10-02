@@ -1,0 +1,6 @@
+/* Simple CSS test to center header text and change the color to blue as a default*/
+
+header {
+    text-align: center;
+    color: blue;
+}
