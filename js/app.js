@@ -7,3 +7,6 @@ function mouseOver(element) {
 function mouseOut(element) {
     element.style.color='blue'
 }
+
+let addToHead = document.querySelector("head");
+console.log(addToHead)
