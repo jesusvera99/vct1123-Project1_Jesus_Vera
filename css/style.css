@@ -21,8 +21,8 @@ body {
 
 .wrapperDivs {
   width: 100vw;
-  height: 100vh;
-  overflow: scroll;
+  height: 100%;
+  /* overflow: scroll; */
 }
 
 p {
